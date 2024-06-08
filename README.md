@@ -19,17 +19,11 @@
    
 ## 프로젝트 
 ## 스마트 어린이 안전 뱃지
-영상 및 위치정보에 기반한 어린이 사고 예방 시스템
+영상 및 위치정보에 기반한 어린이 사고 예방 시스템   
 [스마트 어린이 안전뱃지](https://github.com/TalkingPotato-Project/SmartBadge-JetsonNano)   
    
 ## Make You Study   
-공부를 하고자 하는 의지는 있지만 다른 유혹에 의해 공부를 시작하는 것부터 어려움을 겪는 사람들을 위해 만든 어플
-
-```계획을 적을 수 있는 Calendar   
-```하루의 일과를 적을 수 있는 Diary   
-```시간 계획을 작성할 수 있는 TimeTable   
-```명언을 통한 동기유발   
-```딥러닝을 통한 출석체크   
-[Make You Study](https://github.com/YouthProject/MakeYouStudy)
-[YouTube](https://www.youtube.com/watch?v=fFYOpKca4wU&t=29s)
+공부를 하고자 하는 의지는 있지만 다른 유혹에 의해 공부를 시작하는 것부터 어려움을 겪는 사람들을 위해 만든 어플   
    
+[Make You Study](https://github.com/YouthProject/MakeYouStudy)   
+[YouTube](https://www.youtube.com/watch?v=fFYOpKca4wU&t=29s)
