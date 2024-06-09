@@ -1,9 +1,10 @@
 ### Wassup3 Portfolio_KIMSUMIN   
 ### 👋Intro 
-데이터 분석이 가능한 서비스 기획자가 되기위해 공부중입니다.      
+데이터 분석이 가능한 서비스 기획자가 되기위해 학습중입니다.      
    
 ## 💻Skill   
-JAVA, MYSQL, C, EXCEL, POWERBI   
+JAVA, MYSQL, C, EXCEL, POWERBI 
+<img src="https://img.shields.io/badge/java-#F7DF1E?style=[모양타입]&logo=[아이콘명]&logoColor=[로고색]"/>
    
 ## 🏆Be awarded  
 2021.07 제9회 대한전기학회 산업전기위원회 대상<스마트 어린이 안전뱃지>   
