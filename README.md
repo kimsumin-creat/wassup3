@@ -4,7 +4,8 @@
    
 ## 💻Skill   
 JAVA, MYSQL, C, EXCEL, POWERBI   
-<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>,
+<img src="https://img.shields.io/badge/MYSQL-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>
    
 ## 🏆Be awarded  
 2021.07 제9회 대한전기학회 산업전기위원회 대상<스마트 어린이 안전뱃지>   
