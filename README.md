@@ -7,7 +7,7 @@ JAVA, MYSQL, C, EXCEL, POWERBI
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor="/>
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=excel&logoColor="/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor="/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor="/>
    
 ## 🏆Be awarded  
 2021.07 제9회 대한전기학회 산업전기위원회 대상<스마트 어린이 안전뱃지>   
