@@ -11,7 +11,7 @@ JAVA, MYSQL, C, EXCEL, POWERBI
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
    
 ## 🏆Be awarded  
 2021.07 제9회 대한전기학회 산업전기위원회 대상<스마트 어린이 안전뱃지>   
