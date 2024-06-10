@@ -12,11 +12,6 @@
 <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
    
-## 🏆Be awarded  
-2021.07 제9회 대한전기학회 산업전기위원회 대상<스마트 어린이 안전뱃지>   
-2021.07 교내 캡스톤디자인 최우수상<스마트 어린이 안전뱃지>     
-2021.07 교내 전공소모임 성과발표회 최우수상<스터디출결어플 MakeYouStudy>   
-   
 ## 💡Project 
 ## 1. [스마트 어린이 안전뱃지](https://github.com/TalkingPotato-Project/SmartBadge-JetsonNano)   
 영상 및 위치정보에 기반한 어린이 사고 예방 시스템   
