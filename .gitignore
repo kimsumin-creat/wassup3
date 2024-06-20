@@ -12,6 +12,16 @@ __pycache__/
 # ipynb_checkpoints
 .ipynb_checkpoints/s
 
+# dataset
+dataset/
+data/
+
+# sample
+sample/
+
+# output
+output/
+
 # Distribution / packaging
 .Python
 build/
